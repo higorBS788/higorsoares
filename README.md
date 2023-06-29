@@ -1,2 +1,2 @@
 # Higorsoares
-#tudas as materias da turma do 2°f 
+Todas as materias da turma do 2°f 
